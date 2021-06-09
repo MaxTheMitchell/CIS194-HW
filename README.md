@@ -1,2 +1,2 @@
 # CIS 194: Haskell Homeworks
-These are my solutions from the CIS into to haskell corse as a taught myself the language. https://www.seas.upenn.edu/~cis194/spring13/
+These are my solutions for the CIS intro to haskell corse as I taught myself the language. https://www.seas.upenn.edu/~cis194/spring13/
